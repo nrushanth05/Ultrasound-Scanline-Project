@@ -1,0 +1,1 @@
+The purpose of this project was to generate Ultrasound scanline Charts given information on the position of transducer elements, and the time for the signal to bounce back to the transciever elements.
